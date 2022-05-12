@@ -1,0 +1,25 @@
+{ 
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Dipirona",
+      "validade": "2023-12-01",
+      "preco": 5.0,
+      "prateleira": 1
+    },
+        {
+      "id": 2,
+      "nome": "Cebion 1g",
+      "validade": "2024-12-01",
+      "preco": 15.0,
+      "prateleira": 1
+    },
+        {
+      "id": 1,
+      "nome": "Coristina D",
+      "validade": "2023-10-20",
+      "preco": 4.50,
+      "prateleira": 2
+        }
+  ]
+}
